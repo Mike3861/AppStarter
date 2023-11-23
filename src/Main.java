@@ -1,11 +1,9 @@
 
-import javax.swing.*;
+
 import java.awt.*;
 import java.io.File;
 import java.io.IOException;
-import java.net.URI;
-import java.util.Timer;
-import java.util.TimerTask;
+
 
 public class Main {
 
